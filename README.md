@@ -1,3 +1,8 @@
+This is s a step by step follow up of the tutorial on the React Website.
+
+
+## React  Readme  File
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
